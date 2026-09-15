@@ -1,2 +1,2 @@
 # spaical code
-ito by
+ito
